@@ -14,7 +14,7 @@ https://nodejs.org/en/download/
 
 Clone this repo into a new project folder. You may also download it as a ZIP file.
 
-https://github.com/buckyroberts/angular-2-template.git
+https://github.com/GubendiranM/angular-2-template
 
 ### Install Libraries and Dependencies
 
@@ -41,8 +41,3 @@ Now you can start the TypeScript compiler in watch mode and run lite-server with
 ### Other
 
 - [thenewboston](https://thenewboston.com/)
-- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
-- [Twitter](https://twitter.com/bucky_roberts)
-- [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
-- [Donate](https://www.patreon.com/thenewboston)
